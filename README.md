@@ -1,1 +1,2 @@
-# Digital-Clock
+#A Digital clock involving Date , Time , Day , Month and Year Functions ...
+#Using Swings in JAVA
